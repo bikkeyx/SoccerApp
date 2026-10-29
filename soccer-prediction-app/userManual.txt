@@ -1,0 +1,227 @@
+SOCCER PREDICTION APP - USER MANUAL
+====================================
+
+A simple soccer match prediction app you can use for free. No paid subscriptions needed.
+
+--------------------------------------------
+
+TABLE OF CONTENTS
+-----------------
+1. Before You Start (what you need)
+2. Running the App on Your Computer (before deployment)
+3. Using the App (what you can do)
+4. Deploying to the Internet (after deployment)
+5. After It's Online (how to use the deployed version)
+6. Need Help? (troubleshooting)
+7. Quick Commands (copy-paste cheat sheet)
+
+--------------------------------------------
+
+1. BEFORE YOU START (what you need)
+
+Before you can run the app, you need:
+
+• A computer (Windows, Mac, or Linux)
+• About 10 minutes of time
+• Internet connection (once to set up, then you can use it offline)
+
+That's it! No special technical skills needed.
+
+--------------------------------------------
+
+2. RUNNING THE APP ON YOUR COMPUTER
+   (before deployment)
+
+This is the "local" version. You run it on your own computer.
+
+STEP 1: Open a folder called "soccer-prediction-app"
+• This is the app folder you received/ downloaded
+• It should contain files like: src/, app/, requirements.txt, .venv/
+
+STEP 2: Install the Python setup
+• Double-click the file "activate.bat" inside the folder
+  (or follow the short steps below if that doesn't work)
+
+• If activate.bat doesn't work, do this instead:
+  • Open a "Command Prompt" (press Win+R, type "cmd", press Enter)
+  • Type: cd soccer-prediction-app
+  • Type: .\.venv\Scripts\activate.bat
+  • You'll see your computer prompt change to show "(venv)"
+
+STEP 3: Install the needed programs
+• While the "(venv)" prompt is showing, type:
+  pip install -r requirements.txt
+• Wait about 1-2 minutes until it says "Successfully installed"
+
+STEP 4: Start the app
+• While still in the "(venv)" prompt, type:
+  streamlit run app/__init__.py
+• Wait a moment, then your web browser should open automatically
+  showing the app at: http://localhost:8501
+
+• If the browser doesn't open, open it yourself and go to that address
+
+STEP 5: Using the app
+• You'll see a sidebar on the left with 5 menu options:
+  1. Today's Matches   2. Match Analysis   3. Team Profiles
+  4. Predictions       5. Suggestions
+• Click any menu item to view it
+• Use dropdowns, sliders, and buttons to interact
+
+STEP 6: Stopping the app
+• When done, come back to the Command Prompt window
+• Press Ctrl + C (hold Ctrl and press C)
+• Say "yes" if it asks to terminate
+• Close the Command Prompt window
+
+--------------------------------------------
+
+3. USING THE APP (what you can do)
+
+Once the app is running, here's what you can do:
+
+PAGE 1: Today's Matches
+• Shows today's soccer games with odds
+• See "Value Suggestions" - these are bets the model thinks have good value
+• Use the toggle to show/hide suggestions
+
+PAGE 2: Match Analysis
+• Select two teams (home and away)
+• View prediction probabilities (who's likely to win, draw, lose)
+• See expected goals (xG) for both teams
+• See the most likely final score
+• View score probability chart
+
+PAGE 3: Team Profiles
+• Select a team from the list
+• View their statistics: games played, win rate, goals scored/conceded
+• See their last 5 matches results
+• View key players (attackers and defenders)
+• Form analysis (recent performance)
+
+PAGE 4: Predictions
+• Select home and away teams
+• Wait while the model computes (spinner animation)
+• View probability bars for home win / draw / away win
+• See expected goals comparison
+• See most likely scoreline
+• View score probability distribution chart
+• View value betting opportunities
+
+PAGE 5: Suggestions
+• Use the slider to set "Minimum Edge %" (default 5%)
+• Use the slider to set "Minimum Probability %" (default 20%)
+- View the suggested bets that meet your thresholds
+- Each suggestion shows: edge value, probability, confidence level
+- Confidence: HIGH (good edge), MEDIUM (okay edge), LOW (low edge)
+- Summary stats show how many suggestions, positive edges, average edge
+
+--------------------------------------------
+
+4. DEPLOYING TO THE INTERNET (after deployment)
+   (for when you want to share the app online)
+
+If you want to share the app with friends or use it on any computer:
+
+STEP 1: Save the app online
+• You need a GitHub account (free at github.com)
+• Upload the "soccer-prediction-app" folder to your GitHub repository
+• Include all files and folders
+
+STEP 2: Deploy on Streamlit Cloud (free)
+• Go to share.streamlit.io (free, no credit card needed)
+• Sign in with your GitHub account
+• Click "New App"
+• Select your repository
+• Set "Main file path" to: app/__init__.py
+• Click "Deploy"
+
+STEP 3: Wait a few minutes
+• Streamlit will build and publish your app
+• You'll see a progress bar
+- Once it says "Your app is deployed!", it's ready
+
+STEP 4: Use the app online
+• You'll get a URL like: https://yourname-share-streamlit-app-usercom-manage-a1b2c3d4e5f6.gigs.streamlit.app
+- Bookmark this URL
+- Share it with friends
+- Click the link to open the app in any web browser
+
+--------------------------------------------
+
+5. AFTER IT'S ONLINE (how to use the deployed version)
+
+After deployment, here's how to use it:
+
+• Open the URL in any web browser (Chrome, Edge, Firefox, Safari)
+• The app will load with the same 5 menu pages
+• Navigation works the same as the local version
+• **Important**: The deployed app may "sleep" if nobody uses it for a while
+  - This is normal for the free Streamlit Cloud tier
+- Just refresh the page if it seems slow or empty after a break
+- Visit the URL once every few days to keep it "awake"
+
+• All the same features work: predictions, suggestions, team profiles, etc.
+• The odds and data might be slightly older than the local version (that's normal)
+
+--------------------------------------------
+
+6. NEED HELP? (troubleshooting)
+
+PROBLEM: "The command prompt closes immediately"
+FIX: The window closes too fast. Try: right-click the title bar → Properties → 
+  uncheck "QuickEdit Mode", then try running again.
+
+PROBLEM: "Module not found" error
+FIX: Make sure you completed Step 3 (pip install -r requirements.txt) and 
+  your prompt shows "(venv)".
+
+PROBLEM: "The app opened but looks weird/styled wrong"
+FIX: Use Chrome, Edge, or Firefox web browser. Not old versions of Safari.
+
+PROBLEM: "App deployed but shows white screen"
+FIX: Wait 2-3 minutes for first deployment. If still white, check the 
+  deployment logs at share.streamlit.io.
+
+PROBLEM: "After deployment, data seems stale"
+FIX: Visit the URL once a day to keep the app warm. Or refresh the page.
+
+PROBLEM: "I don't have a GitHub account"
+FIX: Go to github.com, click "Sign Up", it's free and takes 2 minutes.
+
+--------------------------------------------
+
+7. QUICK COMMANDS (copy-paste cheat sheet)
+
+IF USING WINDOWS COMMAND PROMPT:
+1. cd soccer-prediction-app
+2. .\.venv\Scripts\activate.bat
+3. pip install -r requirements.txt
+4. streamlit run app/__init__.py
+
+IF USING MAC/LINUX TERMINAL:
+1. cd soccer-prediction-app
+2. python -m venv .venv
+3. source .venv/bin/activate
+4. pip install -r requirements.txt
+5. streamlit run app/__init__.py
+
+TO DEPLOY TO STREAMLIT CLOUD:
+1. Upload folder to GitHub
+2. Go to share.streamlit.io
+3. New app → select repo → main file: app/__init__.py → Deploy
+
+TO REFRESH DATA (local only):
+python -c "from src.ingestion.results import fetch_epl_results; d=fetch_epl_results(years_back=1); print('Fetched', len(d['matches']), 'matches')"
+
+TO STOP THE APP:
+Press Ctrl + C in the command prompt window
+
+--------------------------------------------
+
+NEED MORE HELP?
+• Ask someone tech-savvy to walk you through the steps
+• Re-download the app if any files seem missing
+• The app is designed to be zero-cost: no payments, no credit cards needed anywhere
+
+Enjoy predicting soccer matches! ⚽

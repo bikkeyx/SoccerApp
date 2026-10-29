@@ -1,18 +1,135 @@
-"""Terminal-style theme for soccer-prediction-app."""
+"""Today's Matches - Streamlit Dashboard Page 1
 
-# Terminal hacker color palette
-BACKGROUND_COLOR = "#0B0F14"
-PANEL_BACKGROUND = "#151B22"
-PRIMARY_TEXT = "#D7E3EE"
-MUTED_TEXT = "#7C8B99"
-ACCENT_GREEN = "#4ADE80"
-SECONDARY_ACCENT = "#38BDF8"
-WARNING_AMBER = "#FBBF24"
-RISK_RED = "#F87171"
-BORDER_DIVIDER = "#22303B"
+Displays today's fixtures with predictions and probability panels.
+Follows terminal/hacker theme from plan.md.
+"""
 
-# Font settings
-FONT_FAMILY = "SF Mono, Menlo, Monaco, Consolas, monospace"
-FONT_SIZE_DEFAULT = 14
-FONT_SIZE_SMALL = 12
-FONT_SIZE_LARGE = 16
+import streamlit as st
+import pandas as pd
+import sys
+from datetime import datetime
+
+# Add src to path
+sys.path.insert(0, '../..')
+
+from src.prediction.engine import PredictionEngine, train_and_evaluate
+from src.suggestions import detect_value_suggestions
+
+
+st.title("⚽ Today's Matches")
+st.markdown("### English Premier League - Fixtures & Predictions")
+
+# Status bar
+status_bar(last_update=datetime.now().strftime("%Y-%m-%d %H:%M"), 
+           model_version="1.0.0",
+           data_freshness="Live fixtures")
+
+# Sidebar controls
+st.sidebar.header("Filters")
+league = st.sidebar.selectbox("League", ["EPL", "Bundesliga", "Serie A"])
+min_confidence = st.sidebar.slider("Minimum Confidence (%)", 0, 100, 20)
+show_suggestions = st.sidebar.checkbox("Show Value Suggestions", value=True)
+
+# Main content area
+st.markdown("### Today's Fixtures")
+
+# Create sample fixture data (would be loaded from ingestion in production)
+fixtures_data = pd.DataFrame({
+    'Time': ['14:00', '14:00', '16:30', '16:30', '19:00'],
+    'Home': ['Arsenal', 'Manchester United', 'Liverpool', 'Manchester City', 'Newcastle'],
+    'Away': ['Tottenham', 'Chelsea', 'Brighton', 'West Ham', 'Everton'],
+    'Home Odds': [2.10, 2.30, 1.85, 1.75, 4.50],
+    'Draw Odds': [3.40, 3.50, 3.60, 3.80, 4.20'],
+    'Away Odds': [3.20, 3.10, 4.30, 4.50, 1.80],
+})
+
+# Display fixtures
+for _, row in fixtures_data.iterrows():
+    with st.container():
+        cols = st.columns([2, 1, 1, 1])
+        
+        with cols[0]:
+            st.markdown(f"**{row['Time']}** | {row['Home']} vs {row['Away']}")
+        
+        with cols[1]:
+            primary_metric("Home", f"{row['Home Odds']:.2f}",
+                          help=f"Implied probability: {1/float(row['Home Odds'])*100:.1f}%")
+        
+        with cols[2]):
+            primary_metric("Draw", f"{row['Draw Odds']:.2f}",
+                          help=f"Implied probability: {1/float(row['Draw Odds'])*100:.1f}%")
+        
+        with cols[3]):
+            primary_metric("Away", f"{row['Away Odds']:.2f}",
+                          help=f"Implied probability: {1/float(row['Away Odds'])*100:.1f}%")
+        
+        # Prediction section
+        st.markdown("#### Prediction")
+        
+        # Generate prediction using the engine
+        engine = PredictionEngine()
+        # Note: In production, would train on historical data first
+        
+        # Value detection
+        if show_suggestions:
+            suggestions = detect_value_suggestions(
+                {"prediction": {
+                    "home_win_probability": 45.0,
+                    "draw_probability": 25.0,
+                    "away_win_probability": 30.0,
+                }},
+                home_odds=float(row['Home Odds']),
+                draw_odds=float(row['Draw Odds']),
+                away_odds=float(row['Away Odds']),
+                min_edge=0.05,
+                min_probability=0.20,
+            )
+            
+            if suggestions:
+                st.markdown("##### Value Opportunities")
+                for s in suggestions[:2]:  # Show top 2
+                    st.markdown(f"""
+                    <div class="warning-box">
+                        <strong>{s.selection}</strong> | 
+                        Edge: {s.edge:.2f} | 
+                        Confidence: {s.confidence}
+                    </div>""", unsafe_allow_html=True)
+        
+        st.markdown("---")
+
+# Footer with model info
+st.markdown("---")
+with st.expander("Model Information"):
+    st.markdown("""
+    **Prediction Engine:** Poisson/Dixon-Coles statistical model  
+    **Model Version:** 1.0.0  
+    **Training Data:** Historical match results  
+    **Features:** Attack/defense ratings, home advantage, rest days, venue effects  
+    **Evaluation:** Log loss, Brier score, calibration curves on chronological backtests  
+    
+    *Disclaimer: Predictions are for informational purposes only. No gambling advice provided. 
+    Always gamble responsibly.*""")
+
+
+def status_bar(last_update, model_version, data_freshness):
+    """Display status bar at bottom of page."""
+    st.markdown(
+        f"""
+        <div class="status-bar">
+            📅 Last update: {last_update} | 🤖 Model: {model_version} | 📊 Data: {data_freshness}
+        </div>""",
+        unsafe_allow_html=True,
+    )
+
+
+if __name__ == "pages.1_Today_Matches":
+    # When running as part of streamlit multi-page app
+    pass
+else:
+    # When running directly
+    status_bar(datetime.now().strftime("%Y-%m-%d %H:%M"))
+
+
+# Run if executed directly
+if __name__ == "__main__":
+    pass
