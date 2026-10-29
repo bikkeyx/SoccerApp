@@ -1,0 +1,2814 @@
+{
+  "matches": [
+    {
+      "date": "28/07/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Anderlecht",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/07/2023",
+      "home_team": "Eupen",
+      "away_team": "Westerlo",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/07/2023",
+      "home_team": "Charleroi",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/07/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Genk",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/07/2023",
+      "home_team": "Antwerp",
+      "away_team": "Cercle Brugge",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/07/2023",
+      "home_team": "Gent",
+      "away_team": "Kortrijk",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/07/2023",
+      "home_team": "Club Brugge",
+      "away_team": "Mechelen",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/07/2023",
+      "home_team": "St Truiden",
+      "away_team": "Standard",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/08/2023",
+      "home_team": "Standard",
+      "away_team": "St. Gilloise",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/08/2023",
+      "home_team": "Genk",
+      "away_team": "Eupen",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/08/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Charleroi",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/08/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "06/08/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Antwerp",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "06/08/2023",
+      "home_team": "Mechelen",
+      "away_team": "Gent",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "06/08/2023",
+      "home_team": "Westerlo",
+      "away_team": "Club Brugge",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "06/08/2023",
+      "home_team": "Kortrijk",
+      "away_team": "St Truiden",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/08/2023",
+      "home_team": "Antwerp",
+      "away_team": "Kortrijk",
+      "home_goals": 6,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/08/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Mechelen",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/08/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 5,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/08/2023",
+      "home_team": "St Truiden",
+      "away_team": "Anderlecht",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/08/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Genk",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/08/2023",
+      "home_team": "Eupen",
+      "away_team": "Club Brugge",
+      "home_goals": 0,
+      "away_goals": 5,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/08/2023",
+      "home_team": "Charleroi",
+      "away_team": "Standard",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/08/2023",
+      "home_team": "Westerlo",
+      "away_team": "Gent",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "18/08/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Antwerp",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "19/08/2023",
+      "home_team": "Standard",
+      "away_team": "Cercle Brugge",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "19/08/2023",
+      "home_team": "Mechelen",
+      "away_team": "St. Gilloise",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/08/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Westerlo",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/08/2023",
+      "home_team": "Genk",
+      "away_team": "Charleroi",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/08/2023",
+      "home_team": "Gent",
+      "away_team": "St Truiden",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/08/2023",
+      "home_team": "Club Brugge",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 7,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/08/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Eupen",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/08/2023",
+      "home_team": "Westerlo",
+      "away_team": "Mechelen",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/08/2023",
+      "home_team": "Eupen",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/08/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Standard",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/08/2023",
+      "home_team": "St Truiden",
+      "away_team": "Cercle Brugge",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/08/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Charleroi",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/09/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Kortrijk",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/09/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Westerlo",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/09/2023",
+      "home_team": "Mechelen",
+      "away_team": "Eupen",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/09/2023",
+      "home_team": "Standard",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/09/2023",
+      "home_team": "Gent",
+      "away_team": "Club Brugge",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/09/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Antwerp",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/09/2023",
+      "home_team": "Genk",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/09/2023",
+      "home_team": "Charleroi",
+      "away_team": "St Truiden",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "15/09/2023",
+      "home_team": "Westerlo",
+      "away_team": "Antwerp",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/09/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Cercle Brugge",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/09/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Genk",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/09/2023",
+      "home_team": "Club Brugge",
+      "away_team": "Charleroi",
+      "home_goals": 4,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/09/2023",
+      "home_team": "Eupen",
+      "away_team": "Standard",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/09/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Anderlecht",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/09/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Gent",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/09/2023",
+      "home_team": "St Truiden",
+      "away_team": "Mechelen",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "22/09/2023",
+      "home_team": "Standard",
+      "away_team": "Westerlo",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/09/2023",
+      "home_team": "Charleroi",
+      "away_team": "Kortrijk",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/09/2023",
+      "home_team": "Mechelen",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/09/2023",
+      "home_team": "Antwerp",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/09/2023",
+      "home_team": "Genk",
+      "away_team": "St Truiden",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/09/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "St. Gilloise",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/09/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/09/2023",
+      "home_team": "Gent",
+      "away_team": "Eupen",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/09/2023",
+      "home_team": "Antwerp",
+      "away_team": "Gent",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/09/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "St. Gilloise",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/09/2023",
+      "home_team": "Club Brugge",
+      "away_team": "Genk",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/09/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Cercle Brugge",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/09/2023",
+      "home_team": "Eupen",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/09/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Standard",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/09/2023",
+      "home_team": "Mechelen",
+      "away_team": "Antwerp",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/10/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Charleroi",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/10/2023",
+      "home_team": "Genk",
+      "away_team": "Westerlo",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/10/2023",
+      "home_team": "Club Brugge",
+      "away_team": "St Truiden",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/10/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Gent",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "06/10/2023",
+      "home_team": "Charleroi",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "07/10/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "07/10/2023",
+      "home_team": "Westerlo",
+      "away_team": "Kortrijk",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "07/10/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Mechelen",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "08/10/2023",
+      "home_team": "Standard",
+      "away_team": "Club Brugge",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "08/10/2023",
+      "home_team": "Antwerp",
+      "away_team": "Eupen",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "08/10/2023",
+      "home_team": "Gent",
+      "away_team": "Genk",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "08/10/2023",
+      "home_team": "St Truiden",
+      "away_team": "St. Gilloise",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/10/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Eupen",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/10/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/10/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Westerlo",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/10/2023",
+      "home_team": "Charleroi",
+      "away_team": "Antwerp",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "22/10/2023",
+      "home_team": "Genk",
+      "away_team": "Mechelen",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "22/10/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Gent",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "22/10/2023",
+      "home_team": "Standard",
+      "away_team": "Anderlecht",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "22/10/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "St Truiden",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/10/2023",
+      "home_team": "St Truiden",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/10/2023",
+      "home_team": "Mechelen",
+      "away_team": "Cercle Brugge",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/10/2023",
+      "home_team": "Eupen",
+      "away_team": "Charleroi",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/10/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 5,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/10/2023",
+      "home_team": "Club Brugge",
+      "away_team": "Antwerp",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/10/2023",
+      "home_team": "Westerlo",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/10/2023",
+      "home_team": "Gent",
+      "away_team": "Standard",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/10/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Genk",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/11/2023",
+      "home_team": "St Truiden",
+      "away_team": "Eupen",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/11/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Kortrijk",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/11/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Westerlo",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/11/2023",
+      "home_team": "Antwerp",
+      "away_team": "Genk",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/11/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Anderlecht",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/11/2023",
+      "home_team": "Standard",
+      "away_team": "Mechelen",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/11/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Club Brugge",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/11/2023",
+      "home_team": "Charleroi",
+      "away_team": "Gent",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/11/2023",
+      "home_team": "Westerlo",
+      "away_team": "St Truiden",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/11/2023",
+      "home_team": "Antwerp",
+      "away_team": "Standard",
+      "home_goals": 6,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/11/2023",
+      "home_team": "Eupen",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/11/2023",
+      "home_team": "Mechelen",
+      "away_team": "Charleroi",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/11/2023",
+      "home_team": "Club Brugge",
+      "away_team": "Cercle Brugge",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/11/2023",
+      "home_team": "Genk",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/11/2023",
+      "home_team": "Gent",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/11/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Kortrijk",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/11/2023",
+      "home_team": "St Truiden",
+      "away_team": "Antwerp",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/11/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Eupen",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/11/2023",
+      "home_team": "Charleroi",
+      "away_team": "Westerlo",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/11/2023",
+      "home_team": "Standard",
+      "away_team": "Genk",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/11/2023",
+      "home_team": "Gent",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/11/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Club Brugge",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/11/2023",
+      "home_team": "Anderlecht",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/11/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Mechelen",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/12/2023",
+      "home_team": "Westerlo",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/12/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Charleroi",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/12/2023",
+      "home_team": "Eupen",
+      "away_team": "Kortrijk",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/12/2023",
+      "home_team": "Antwerp",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/12/2023",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/12/2023",
+      "home_team": "Mechelen",
+      "away_team": "St Truiden",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/12/2023",
+      "home_team": "Club Brugge",
+      "away_team": "Standard",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/12/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Cercle Brugge",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "08/12/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Westerlo",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "09/12/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Antwerp",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "09/12/2023",
+      "home_team": "St Truiden",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "09/12/2023",
+      "home_team": "Gent",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/12/2023",
+      "home_team": "Mechelen",
+      "away_team": "Club Brugge",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/12/2023",
+      "home_team": "Eupen",
+      "away_team": "Genk",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/12/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Standard",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/12/2023",
+      "home_team": "Charleroi",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "15/12/2023",
+      "home_team": "Westerlo",
+      "away_team": "Eupen",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/12/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Cercle Brugge",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/12/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "St Truiden",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/12/2023",
+      "home_team": "Standard",
+      "away_team": "Charleroi",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/12/2023",
+      "home_team": "Club Brugge",
+      "away_team": "Gent",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/12/2023",
+      "home_team": "St. Gilloise",
+      "away_team": "Mechelen",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/12/2023",
+      "home_team": "Antwerp",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/12/2023",
+      "home_team": "Genk",
+      "away_team": "Kortrijk",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/12/2023",
+      "home_team": "Cercle Brugge",
+      "away_team": "Kortrijk",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/12/2023",
+      "home_team": "Mechelen",
+      "away_team": "Standard",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/12/2023",
+      "home_team": "Gent",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "22/12/2023",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 6,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/12/2023",
+      "home_team": "Eupen",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/12/2023",
+      "home_team": "Antwerp",
+      "away_team": "Westerlo",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/12/2023",
+      "home_team": "St Truiden",
+      "away_team": "Charleroi",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/12/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Genk",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/12/2023",
+      "home_team": "Genk",
+      "away_team": "Antwerp",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/12/2023",
+      "home_team": "Kortrijk",
+      "away_team": "Gent",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/12/2023",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Eupen",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/12/2023",
+      "home_team": "Westerlo",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/12/2023",
+      "home_team": "Club Brugge",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/12/2023",
+      "home_team": "Standard",
+      "away_team": "St Truiden",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/12/2023",
+      "home_team": "Anderlecht",
+      "away_team": "Cercle Brugge",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/12/2023",
+      "home_team": "Charleroi",
+      "away_team": "Mechelen",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "19/01/2024",
+      "home_team": "Gent",
+      "away_team": "Mechelen",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/01/2024",
+      "home_team": "Genk",
+      "away_team": "Cercle Brugge",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/01/2024",
+      "home_team": "Standard",
+      "away_team": "Kortrijk",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/01/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Westerlo",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/01/2024",
+      "home_team": "Antwerp",
+      "away_team": "Charleroi",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/01/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "St Truiden",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/01/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/01/2024",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Eupen",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/01/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "Standard",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/01/2024",
+      "home_team": "Kortrijk",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/01/2024",
+      "home_team": "Charleroi",
+      "away_team": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/01/2024",
+      "home_team": "Gent",
+      "away_team": "Westerlo",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "St Truiden",
+      "away_team": "Genk",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "Eupen",
+      "away_team": "Antwerp",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "Anderlecht",
+      "away_team": "St. Gilloise",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "Mechelen",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/01/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Kortrijk",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/01/2024",
+      "home_team": "Westerlo",
+      "away_team": "Cercle Brugge",
+      "home_goals": 4,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "31/01/2024",
+      "home_team": "Charleroi",
+      "away_team": "Eupen",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "31/01/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Genk",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "31/01/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "31/01/2024",
+      "home_team": "Standard",
+      "away_team": "Antwerp",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/02/2024",
+      "home_team": "Mechelen",
+      "away_team": "Anderlecht",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/02/2024",
+      "home_team": "St Truiden",
+      "away_team": "Gent",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/02/2024",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Standard",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/02/2024",
+      "home_team": "Kortrijk",
+      "away_team": "Charleroi",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/02/2024",
+      "home_team": "Westerlo",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/02/2024",
+      "home_team": "Genk",
+      "away_team": "St. Gilloise",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Antwerp",
+      "away_team": "Club Brugge",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Eupen",
+      "away_team": "Mechelen",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Anderlecht",
+      "away_team": "Gent",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "St Truiden",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "09/02/2024",
+      "home_team": "St Truiden",
+      "away_team": "Kortrijk",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/02/2024",
+      "home_team": "Standard",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/02/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "Westerlo",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/02/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Eupen",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/02/2024",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Antwerp",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/02/2024",
+      "home_team": "Mechelen",
+      "away_team": "Genk",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/02/2024",
+      "home_team": "Charleroi",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/02/2024",
+      "home_team": "Gent",
+      "away_team": "Cercle Brugge",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/02/2024",
+      "home_team": "Westerlo",
+      "away_team": "Standard",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/02/2024",
+      "home_team": "Genk",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/02/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Charleroi",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/02/2024",
+      "home_team": "Antwerp",
+      "away_team": "Mechelen",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "18/02/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "18/02/2024",
+      "home_team": "Kortrijk",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "18/02/2024",
+      "home_team": "Anderlecht",
+      "away_team": "St Truiden",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "18/02/2024",
+      "home_team": "Eupen",
+      "away_team": "Gent",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/02/2024",
+      "home_team": "Charleroi",
+      "away_team": "Genk",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/02/2024",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/02/2024",
+      "home_team": "St Truiden",
+      "away_team": "Westerlo",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/02/2024",
+      "home_team": "Mechelen",
+      "away_team": "Kortrijk",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/02/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/02/2024",
+      "home_team": "Gent",
+      "away_team": "Antwerp",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/02/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "Standard",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/02/2024",
+      "home_team": "Eupen",
+      "away_team": "Cercle Brugge",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/03/2024",
+      "home_team": "Westerlo",
+      "away_team": "Charleroi",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/03/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "Mechelen",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/03/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "St. Gilloise",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/03/2024",
+      "home_team": "Standard",
+      "away_team": "Gent",
+      "home_goals": 4,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/03/2024",
+      "home_team": "Genk",
+      "away_team": "Club Brugge",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/03/2024",
+      "home_team": "Antwerp",
+      "away_team": "St Truiden",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/03/2024",
+      "home_team": "Anderlecht",
+      "away_team": "Eupen",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/03/2024",
+      "home_team": "Kortrijk",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "08/03/2024",
+      "home_team": "Mechelen",
+      "away_team": "Westerlo",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "09/03/2024",
+      "home_team": "Kortrijk",
+      "away_team": "Antwerp",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "09/03/2024",
+      "home_team": "Charleroi",
+      "away_team": "Cercle Brugge",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "09/03/2024",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Anderlecht",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/03/2024",
+      "home_team": "Genk",
+      "away_team": "Standard",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/03/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/03/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "Gent",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "10/03/2024",
+      "home_team": "Eupen",
+      "away_team": "St Truiden",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/03/2024",
+      "home_team": "Standard",
+      "away_team": "Eupen",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "16/03/2024",
+      "home_team": "Anderlecht",
+      "away_team": "Kortrijk",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "St Truiden",
+      "away_team": "Club Brugge",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Antwerp",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Gent",
+      "away_team": "Charleroi",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Mechelen",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Westerlo",
+      "away_team": "Genk",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "29/03/2024",
+      "home_team": "Gent",
+      "away_team": "Standard",
+      "home_goals": 5,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/03/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Mechelen",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "30/03/2024",
+      "home_team": "Anderlecht",
+      "away_team": "Antwerp",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "31/03/2024",
+      "home_team": "St Truiden",
+      "away_team": "Westerlo",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/04/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "01/04/2024",
+      "home_team": "Genk",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/04/2024",
+      "home_team": "Mechelen",
+      "away_team": "St Truiden",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "06/04/2024",
+      "home_team": "Charleroi",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "06/04/2024",
+      "home_team": "Standard",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "06/04/2024",
+      "home_team": "Antwerp",
+      "away_team": "Genk",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "07/04/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "Cercle Brugge",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "07/04/2024",
+      "home_team": "Eupen",
+      "away_team": "Kortrijk",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "07/04/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Anderlecht",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "07/04/2024",
+      "home_team": "Westerlo",
+      "away_team": "Gent",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/04/2024",
+      "home_team": "St Truiden",
+      "away_team": "Standard",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/04/2024",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Eupen",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/04/2024",
+      "home_team": "Mechelen",
+      "away_team": "Westerlo",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/04/2024",
+      "home_team": "Genk",
+      "away_team": "Cercle Brugge",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "14/04/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Antwerp",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "14/04/2024",
+      "home_team": "Kortrijk",
+      "away_team": "Charleroi",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "14/04/2024",
+      "home_team": "Anderlecht",
+      "away_team": "St. Gilloise",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "14/04/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Gent",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/04/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "St Truiden",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/04/2024",
+      "home_team": "Westerlo",
+      "away_team": "Standard",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/04/2024",
+      "home_team": "Gent",
+      "away_team": "Mechelen",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/04/2024",
+      "home_team": "Genk",
+      "away_team": "Anderlecht",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/04/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "Antwerp",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/04/2024",
+      "home_team": "Kortrijk",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 2,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/04/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "21/04/2024",
+      "home_team": "Charleroi",
+      "away_team": "Eupen",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/04/2024",
+      "home_team": "St Truiden",
+      "away_team": "Gent",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/04/2024",
+      "home_team": "Standard",
+      "away_team": "Mechelen",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "23/04/2024",
+      "home_team": "Westerlo",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/04/2024",
+      "home_team": "Anderlecht",
+      "away_team": "Cercle Brugge",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "24/04/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Genk",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/04/2024",
+      "home_team": "Antwerp",
+      "away_team": "St. Gilloise",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/04/2024",
+      "home_team": "Eupen",
+      "away_team": "Charleroi",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/04/2024",
+      "home_team": "Mechelen",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/04/2024",
+      "home_team": "Standard",
+      "away_team": "St Truiden",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "27/04/2024",
+      "home_team": "Gent",
+      "away_team": "Westerlo",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/04/2024",
+      "home_team": "Genk",
+      "away_team": "Club Brugge",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/04/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "Anderlecht",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/04/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "Antwerp",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "28/04/2024",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Kortrijk",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "03/05/2024",
+      "home_team": "Westerlo",
+      "away_team": "St Truiden",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/05/2024",
+      "home_team": "RWD Molenbeek",
+      "away_team": "Charleroi",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/05/2024",
+      "home_team": "Mechelen",
+      "away_team": "Gent",
+      "home_goals": 2,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "04/05/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "Genk",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/05/2024",
+      "home_team": "Antwerp",
+      "away_team": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/05/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Standard",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/05/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "Anderlecht",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "05/05/2024",
+      "home_team": "Kortrijk",
+      "away_team": "Eupen",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/05/2024",
+      "home_team": "Charleroi",
+      "away_team": "Kortrijk",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/05/2024",
+      "home_team": "Eupen",
+      "away_team": "RWD Molenbeek",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "11/05/2024",
+      "home_team": "Anderlecht",
+      "away_team": "Genk",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/05/2024",
+      "home_team": "Gent",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/05/2024",
+      "home_team": "St Truiden",
+      "away_team": "Mechelen",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "12/05/2024",
+      "home_team": "Antwerp",
+      "away_team": "Cercle Brugge",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "13/05/2024",
+      "home_team": "Club Brugge",
+      "away_team": "St. Gilloise",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "17/05/2024",
+      "home_team": "St Truiden",
+      "away_team": "Oud-Heverlee Leuven",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Westerlo",
+      "away_team": "Mechelen",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Standard",
+      "away_team": "Gent",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "19/05/2024",
+      "home_team": "Cercle Brugge",
+      "away_team": "St. Gilloise",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "19/05/2024",
+      "home_team": "Anderlecht",
+      "away_team": "Club Brugge",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "20/05/2024",
+      "home_team": "Genk",
+      "away_team": "Antwerp",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/05/2024",
+      "home_team": "Gent",
+      "away_team": "St Truiden",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/05/2024",
+      "home_team": "Mechelen",
+      "away_team": "Standard",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "25/05/2024",
+      "home_team": "Oud-Heverlee Leuven",
+      "away_team": "Westerlo",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/05/2024",
+      "home_team": "Antwerp",
+      "away_team": "Anderlecht",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/05/2024",
+      "home_team": "Club Brugge",
+      "away_team": "Cercle Brugge",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "BL1"
+    },
+    {
+      "date": "26/05/2024",
+      "home_team": "St. Gilloise",
+      "away_team": "Genk",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "BL1"
+    },
+    {
+      "date": "02/06/2024",
+      "home_team": "Genk",
+      "away_team": "Gent",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "BL1"
+    }
+  ],
+  "source": "football-data.co.uk CSV",
+  "competition": "BL1"
+}

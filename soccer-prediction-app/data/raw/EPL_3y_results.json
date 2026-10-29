@@ -1,0 +1,2760 @@
+{
+  "matches": [
+    {
+      "date": "06/08/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Vizela",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/08/2021",
+      "home_team": "Arouca",
+      "away_team": "Estoril",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "07/08/2021",
+      "home_team": "Moreirense",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "07/08/2021",
+      "home_team": "Maritimo",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/08/2021",
+      "home_team": "Guimaraes",
+      "away_team": "Portimonense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/08/2021",
+      "home_team": "Tondela",
+      "away_team": "Santa Clara",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "08/08/2021",
+      "home_team": "Porto",
+      "away_team": "Belenenses",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "08/08/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/08/2021",
+      "home_team": "Gil Vicente",
+      "away_team": "Boavista",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/08/2021",
+      "home_team": "Estoril",
+      "away_team": "Guimaraes",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "14/08/2021",
+      "home_team": "Vizela",
+      "away_team": "Tondela",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "14/08/2021",
+      "home_team": "Benfica",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "14/08/2021",
+      "home_team": "Sp Braga",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "15/08/2021",
+      "home_team": "Portimonense",
+      "away_team": "Gil Vicente",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "15/08/2021",
+      "home_team": "Famalicao",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "15/08/2021",
+      "home_team": "Santa Clara",
+      "away_team": "Moreirense",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "16/08/2021",
+      "home_team": "Boavista",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/08/2021",
+      "home_team": "Belenenses",
+      "away_team": "Maritimo",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/08/2021",
+      "home_team": "Arouca",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "20/08/2021",
+      "home_team": "Moreirense",
+      "away_team": "Sp Braga",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "21/08/2021",
+      "home_team": "Gil Vicente",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "21/08/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Belenenses",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "22/08/2021",
+      "home_team": "Tondela",
+      "away_team": "Portimonense",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "22/08/2021",
+      "home_team": "Maritimo",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "22/08/2021",
+      "home_team": "Guimaraes",
+      "away_team": "Vizela",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/08/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Estoril",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "23/08/2021",
+      "home_team": "Boavista",
+      "away_team": "Santa Clara",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "27/08/2021",
+      "home_team": "Belenenses",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/08/2021",
+      "home_team": "Estoril",
+      "away_team": "Maritimo",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/08/2021",
+      "home_team": "Vizela",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "28/08/2021",
+      "home_team": "Porto",
+      "away_team": "Arouca",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/08/2021",
+      "home_team": "Famalicao",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "29/08/2021",
+      "home_team": "Benfica",
+      "away_team": "Tondela",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "29/08/2021",
+      "home_team": "Sp Braga",
+      "away_team": "Guimaraes",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "29/08/2021",
+      "home_team": "Portimonense",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "29/08/2021",
+      "home_team": "Santa Clara",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/09/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "11/09/2021",
+      "home_team": "Santa Clara",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 5,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "11/09/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/09/2021",
+      "home_team": "Moreirense",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/09/2021",
+      "home_team": "Boavista",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/09/2021",
+      "home_team": "Gil Vicente",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/09/2021",
+      "home_team": "Guimaraes",
+      "away_team": "Belenenses",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "13/09/2021",
+      "home_team": "Maritimo",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "13/09/2021",
+      "home_team": "Tondela",
+      "away_team": "Estoril",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/09/2021",
+      "home_team": "Portimonense",
+      "away_team": "Santa Clara",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/09/2021",
+      "home_team": "Famalicao",
+      "away_team": "Maritimo",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "18/09/2021",
+      "home_team": "Belenenses",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "18/09/2021",
+      "home_team": "Arouca",
+      "away_team": "Guimaraes",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "19/09/2021",
+      "home_team": "Vizela",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "19/09/2021",
+      "home_team": "Porto",
+      "away_team": "Moreirense",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "19/09/2021",
+      "home_team": "Estoril",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/09/2021",
+      "home_team": "Benfica",
+      "away_team": "Boavista",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "20/09/2021",
+      "home_team": "Sp Braga",
+      "away_team": "Tondela",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "24/09/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Maritimo",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "24/09/2021",
+      "home_team": "Gil Vicente",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "25/09/2021",
+      "home_team": "Moreirense",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "25/09/2021",
+      "home_team": "Guimaraes",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "25/09/2021",
+      "home_team": "Tondela",
+      "away_team": "Famalicao",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "26/09/2021",
+      "home_team": "Santa Clara",
+      "away_team": "Sp Braga",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "26/09/2021",
+      "home_team": "Portimonense",
+      "away_team": "Vizela",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/09/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Belenenses",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/09/2021",
+      "home_team": "Boavista",
+      "away_team": "Estoril",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "01/10/2021",
+      "home_team": "Maritimo",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "01/10/2021",
+      "home_team": "Famalicao",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "02/10/2021",
+      "home_team": "Vizela",
+      "away_team": "Santa Clara",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "02/10/2021",
+      "home_team": "Porto",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/10/2021",
+      "home_team": "Arouca",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/10/2021",
+      "home_team": "Belenenses",
+      "away_team": "Tondela",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/10/2021",
+      "home_team": "Benfica",
+      "away_team": "Portimonense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/10/2021",
+      "home_team": "Estoril",
+      "away_team": "Gil Vicente",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "03/10/2021",
+      "home_team": "Sp Braga",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "22/10/2021",
+      "home_team": "Guimaraes",
+      "away_team": "Maritimo",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/10/2021",
+      "home_team": "Santa Clara",
+      "away_team": "Famalicao",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "23/10/2021",
+      "home_team": "Tondela",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "23/10/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "24/10/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Arouca",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "24/10/2021",
+      "home_team": "Vizela",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "24/10/2021",
+      "home_team": "Portimonense",
+      "away_team": "Estoril",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "25/10/2021",
+      "home_team": "Gil Vicente",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "25/10/2021",
+      "home_team": "Boavista",
+      "away_team": "Belenenses",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "29/10/2021",
+      "home_team": "Arouca",
+      "away_team": "Tondela",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/10/2021",
+      "home_team": "Porto",
+      "away_team": "Boavista",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/10/2021",
+      "home_team": "Estoril",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "30/10/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "31/10/2021",
+      "home_team": "Maritimo",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "31/10/2021",
+      "home_team": "Belenenses",
+      "away_team": "Santa Clara",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "31/10/2021",
+      "home_team": "Famalicao",
+      "away_team": "Vizela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "01/11/2021",
+      "home_team": "Sp Braga",
+      "away_team": "Portimonense",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "01/11/2021",
+      "home_team": "Moreirense",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "05/11/2021",
+      "home_team": "Gil Vicente",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "05/11/2021",
+      "home_team": "Boavista",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 5,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "06/11/2021",
+      "home_team": "Vizela",
+      "away_team": "Estoril",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "06/11/2021",
+      "home_team": "Portimonense",
+      "away_team": "Belenenses",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/11/2021",
+      "home_team": "Guimaraes",
+      "away_team": "Moreirense",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/11/2021",
+      "home_team": "Tondela",
+      "away_team": "Maritimo",
+      "home_goals": 4,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/11/2021",
+      "home_team": "Santa Clara",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "07/11/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "07/11/2021",
+      "home_team": "Benfica",
+      "away_team": "Sp Braga",
+      "home_goals": 6,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "26/11/2021",
+      "home_team": "Moreirense",
+      "away_team": "Gil Vicente",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/11/2021",
+      "home_team": "Famalicao",
+      "away_team": "Portimonense",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "27/11/2021",
+      "home_team": "Arouca",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "27/11/2021",
+      "home_team": "Belenenses",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 7,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "28/11/2021",
+      "home_team": "Maritimo",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/11/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Tondela",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/11/2021",
+      "home_team": "Porto",
+      "away_team": "Guimaraes",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "29/11/2021",
+      "home_team": "Estoril",
+      "away_team": "Santa Clara",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "30/11/2021",
+      "home_team": "Sp Braga",
+      "away_team": "Vizela",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "03/12/2021",
+      "home_team": "Portimonense",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/12/2021",
+      "home_team": "Benfica",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "04/12/2021",
+      "home_team": "Boavista",
+      "away_team": "Maritimo",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "04/12/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "05/12/2021",
+      "home_team": "Santa Clara",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/12/2021",
+      "home_team": "Gil Vicente",
+      "away_team": "Famalicao",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/12/2021",
+      "home_team": "Sp Braga",
+      "away_team": "Estoril",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/12/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Gil Vicente",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "11/12/2021",
+      "home_team": "Maritimo",
+      "away_team": "Santa Clara",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/12/2021",
+      "home_team": "Guimaraes",
+      "away_team": "Tondela",
+      "home_goals": 5,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/12/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "12/12/2021",
+      "home_team": "Belenenses",
+      "away_team": "Estoril",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/12/2021",
+      "home_team": "Moreirense",
+      "away_team": "Portimonense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/12/2021",
+      "home_team": "Famalicao",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/12/2021",
+      "home_team": "Porto",
+      "away_team": "Sp Braga",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/12/2021",
+      "home_team": "Arouca",
+      "away_team": "Vizela",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/12/2021",
+      "home_team": "Santa Clara",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/12/2021",
+      "home_team": "Estoril",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "18/12/2021",
+      "home_team": "Portimonense",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "18/12/2021",
+      "home_team": "Tondela",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/12/2021",
+      "home_team": "Gil Vicente",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "19/12/2021",
+      "home_team": "Benfica",
+      "away_team": "Maritimo",
+      "home_goals": 7,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "19/12/2021",
+      "home_team": "Boavista",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "19/12/2021",
+      "home_team": "Vizela",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "19/12/2021",
+      "home_team": "Sp Braga",
+      "away_team": "Belenenses",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/12/2021",
+      "home_team": "Tondela",
+      "away_team": "Gil Vicente",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "28/12/2021",
+      "home_team": "Maritimo",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/12/2021",
+      "home_team": "Moreirense",
+      "away_team": "Estoril",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "29/12/2021",
+      "home_team": "Guimaraes",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "29/12/2021",
+      "home_team": "Sp Lisbon",
+      "away_team": "Portimonense",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/12/2021",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Santa Clara",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/12/2021",
+      "home_team": "Arouca",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 6,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "30/12/2021",
+      "home_team": "Porto",
+      "away_team": "Benfica",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/01/2022",
+      "home_team": "Vizela",
+      "away_team": "Belenenses",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "03/01/2022",
+      "home_team": "Tondela",
+      "away_team": "Moreirense",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/01/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Sp Lisbon",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "08/01/2022",
+      "home_team": "Vizela",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/01/2022",
+      "home_team": "Estoril",
+      "away_team": "Porto",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/01/2022",
+      "home_team": "Boavista",
+      "away_team": "Tondela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "09/01/2022",
+      "home_team": "Portimonense",
+      "away_team": "Maritimo",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "09/01/2022",
+      "home_team": "Benfica",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/01/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "09/01/2022",
+      "home_team": "Belenenses",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/01/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Guimaraes",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/01/2022",
+      "home_team": "Famalicao",
+      "away_team": "Belenenses",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "15/01/2022",
+      "home_team": "Boavista",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "15/01/2022",
+      "home_team": "Benfica",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "15/01/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Maritimo",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "16/01/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Tondela",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "16/01/2022",
+      "home_team": "Vizela",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "16/01/2022",
+      "home_team": "Famalicao",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "16/01/2022",
+      "home_team": "Belenenses",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/01/2022",
+      "home_team": "Portimonense",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "21/01/2022",
+      "home_team": "Arouca",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "21/01/2022",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "22/01/2022",
+      "home_team": "Moreirense",
+      "away_team": "Santa Clara",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "22/01/2022",
+      "home_team": "Tondela",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "22/01/2022",
+      "home_team": "Sp Lisbon",
+      "away_team": "Sp Braga",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "23/01/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Estoril",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/01/2022",
+      "home_team": "Maritimo",
+      "away_team": "Belenenses",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "23/01/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/01/2022",
+      "home_team": "Porto",
+      "away_team": "Famalicao",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "27/01/2022",
+      "home_team": "Estoril",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "30/01/2022",
+      "home_team": "Portimonense",
+      "away_team": "Tondela",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "30/01/2022",
+      "home_team": "Vizela",
+      "away_team": "Guimaraes",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/01/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Moreirense",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/01/2022",
+      "home_team": "Porto",
+      "away_team": "Maritimo",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "31/01/2022",
+      "home_team": "Estoril",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "31/01/2022",
+      "home_team": "Famalicao",
+      "away_team": "Arouca",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "01/02/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/02/2022",
+      "home_team": "Benfica",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "02/02/2022",
+      "home_team": "Belenenses",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "05/02/2022",
+      "home_team": "Maritimo",
+      "away_team": "Estoril",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "05/02/2022",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "05/02/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Sp Braga",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/02/2022",
+      "home_team": "Boavista",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "06/02/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Santa Clara",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "06/02/2022",
+      "home_team": "Arouca",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "06/02/2022",
+      "home_team": "Sp Lisbon",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/02/2022",
+      "home_team": "Tondela",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "07/02/2022",
+      "home_team": "Moreirense",
+      "away_team": "Belenenses",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/02/2022",
+      "home_team": "Porto",
+      "away_team": "Sp Lisbon",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/02/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "12/02/2022",
+      "home_team": "Benfica",
+      "away_team": "Santa Clara",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "12/02/2022",
+      "home_team": "Portimonense",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/02/2022",
+      "home_team": "Estoril",
+      "away_team": "Tondela",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/02/2022",
+      "home_team": "Famalicao",
+      "away_team": "Moreirense",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/02/2022",
+      "home_team": "Belenenses",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/02/2022",
+      "home_team": "Vizela",
+      "away_team": "Gil Vicente",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "14/02/2022",
+      "home_team": "Arouca",
+      "away_team": "Maritimo",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/02/2022",
+      "home_team": "Boavista",
+      "away_team": "Benfica",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "19/02/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Belenenses",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "19/02/2022",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "19/02/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/02/2022",
+      "home_team": "Maritimo",
+      "away_team": "Famalicao",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/02/2022",
+      "home_team": "Sp Lisbon",
+      "away_team": "Estoril",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "20/02/2022",
+      "home_team": "Moreirense",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/02/2022",
+      "home_team": "Tondela",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "21/02/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "25/02/2022",
+      "home_team": "Belenenses",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "26/02/2022",
+      "home_team": "Famalicao",
+      "away_team": "Tondela",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "26/02/2022",
+      "home_team": "Maritimo",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "26/02/2022",
+      "home_team": "Arouca",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/02/2022",
+      "home_team": "Vizela",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/02/2022",
+      "home_team": "Benfica",
+      "away_team": "Guimaraes",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "27/02/2022",
+      "home_team": "Estoril",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "27/02/2022",
+      "home_team": "Porto",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "28/02/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Santa Clara",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "04/03/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Estoril",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "05/03/2022",
+      "home_team": "Boavista",
+      "away_team": "Sp Braga",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "05/03/2022",
+      "home_team": "Portimonense",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "05/03/2022",
+      "home_team": "Sp Lisbon",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/03/2022",
+      "home_team": "Moreirense",
+      "away_team": "Maritimo",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "06/03/2022",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Porto",
+      "home_goals": 2,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "06/03/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/03/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Vizela",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/03/2022",
+      "home_team": "Tondela",
+      "away_team": "Belenenses",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "11/03/2022",
+      "home_team": "Benfica",
+      "away_team": "Vizela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/03/2022",
+      "home_team": "Estoril",
+      "away_team": "Portimonense",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "12/03/2022",
+      "home_team": "Famalicao",
+      "away_team": "Santa Clara",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/03/2022",
+      "home_team": "Arouca",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/03/2022",
+      "home_team": "Belenenses",
+      "away_team": "Boavista",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "13/03/2022",
+      "home_team": "Maritimo",
+      "away_team": "Guimaraes",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "13/03/2022",
+      "home_team": "Porto",
+      "away_team": "Tondela",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/03/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Gil Vicente",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "14/03/2022",
+      "home_team": "Moreirense",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/03/2022",
+      "home_team": "Vizela",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "19/03/2022",
+      "home_team": "Tondela",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "19/03/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Belenenses",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "19/03/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/03/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Maritimo",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "20/03/2022",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Moreirense",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "20/03/2022",
+      "home_team": "Benfica",
+      "away_team": "Estoril",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "20/03/2022",
+      "home_team": "Portimonense",
+      "away_team": "Sp Braga",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/03/2022",
+      "home_team": "Boavista",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "01/04/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Benfica",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/04/2022",
+      "home_team": "Belenenses",
+      "away_team": "Portimonense",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/04/2022",
+      "home_team": "Arouca",
+      "away_team": "Gil Vicente",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/04/2022",
+      "home_team": "Estoril",
+      "away_team": "Vizela",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "02/04/2022",
+      "home_team": "Famalicao",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/04/2022",
+      "home_team": "Maritimo",
+      "away_team": "Tondela",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/04/2022",
+      "home_team": "Moreirense",
+      "away_team": "Guimaraes",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/04/2022",
+      "home_team": "Sp Lisbon",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "04/04/2022",
+      "home_team": "Porto",
+      "away_team": "Santa Clara",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "08/04/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "09/04/2022",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Maritimo",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/04/2022",
+      "home_team": "Benfica",
+      "away_team": "Belenenses",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/04/2022",
+      "home_team": "Boavista",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/04/2022",
+      "home_team": "Tondela",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "10/04/2022",
+      "home_team": "Portimonense",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/04/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Estoril",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/04/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "10/04/2022",
+      "home_team": "Vizela",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "15/04/2022",
+      "home_team": "Arouca",
+      "away_team": "Santa Clara",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "15/04/2022",
+      "home_team": "Famalicao",
+      "away_team": "Gil Vicente",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "15/04/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/04/2022",
+      "home_team": "Moreirense",
+      "away_team": "Tondela",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/04/2022",
+      "home_team": "Belenenses",
+      "away_team": "Vizela",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/04/2022",
+      "home_team": "Maritimo",
+      "away_team": "Boavista",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/04/2022",
+      "home_team": "Porto",
+      "away_team": "Portimonense",
+      "home_goals": 7,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/04/2022",
+      "home_team": "Sp Lisbon",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/04/2022",
+      "home_team": "Estoril",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "22/04/2022",
+      "home_team": "Vizela",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/04/2022",
+      "home_team": "Portimonense",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/04/2022",
+      "home_team": "Benfica",
+      "away_team": "Famalicao",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "23/04/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Maritimo",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "23/04/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "24/04/2022",
+      "home_team": "Estoril",
+      "away_team": "Belenenses",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "24/04/2022",
+      "home_team": "Tondela",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "25/04/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "25/04/2022",
+      "home_team": "Boavista",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "29/04/2022",
+      "home_team": "Famalicao",
+      "away_team": "Estoril",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/04/2022",
+      "home_team": "Arouca",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/04/2022",
+      "home_team": "Maritimo",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "30/04/2022",
+      "home_team": "Porto",
+      "away_team": "Vizela",
+      "home_goals": 4,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/04/2022",
+      "home_team": "Belenenses",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "01/05/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Santa Clara",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "01/05/2022",
+      "home_team": "Moreirense",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "01/05/2022",
+      "home_team": "Sp Lisbon",
+      "away_team": "Gil Vicente",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/05/2022",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Tondela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "06/05/2022",
+      "home_team": "Boavista",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "07/05/2022",
+      "home_team": "Estoril",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/05/2022",
+      "home_team": "Benfica",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "07/05/2022",
+      "home_team": "Portimonense",
+      "away_team": "Sp Lisbon",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/05/2022",
+      "home_team": "Gil Vicente",
+      "away_team": "Tondela",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "08/05/2022",
+      "home_team": "Vizela",
+      "away_team": "Maritimo",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "08/05/2022",
+      "home_team": "Sp Braga",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "08/05/2022",
+      "home_team": "Santa Clara",
+      "away_team": "Pacos Ferreira",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/05/2022",
+      "home_team": "Belenenses",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "13/05/2022",
+      "home_team": "Pacos Ferreira",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "14/05/2022",
+      "home_team": "Arouca",
+      "away_team": "Belenenses",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "14/05/2022",
+      "home_team": "Moreirense",
+      "away_team": "Vizela",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "14/05/2022",
+      "home_team": "Tondela",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "14/05/2022",
+      "home_team": "Maritimo",
+      "away_team": "Portimonense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "14/05/2022",
+      "home_team": "Porto",
+      "away_team": "Estoril",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "14/05/2022",
+      "home_team": "Sp Lisbon",
+      "away_team": "Santa Clara",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "15/05/2022",
+      "home_team": "Famalicao",
+      "away_team": "Sp Braga",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "15/05/2022",
+      "home_team": "Guimaraes",
+      "away_team": "Gil Vicente",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    }
+  ],
+  "source": "football-data.co.uk CSV",
+  "competition": "PL"
+}

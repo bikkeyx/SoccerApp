@@ -1,0 +1,2760 @@
+{
+  "matches": [
+    {
+      "date": "11/08/2023",
+      "home_team": "Sp Braga",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/08/2023",
+      "home_team": "Gil Vicente",
+      "away_team": "Portimonense",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "12/08/2023",
+      "home_team": "Farense",
+      "away_team": "Casa Pia",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/08/2023",
+      "home_team": "Sp Lisbon",
+      "away_team": "Vizela",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/08/2023",
+      "home_team": "Rio Ave",
+      "away_team": "Chaves",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/08/2023",
+      "home_team": "Estrela",
+      "away_team": "Guimaraes",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "13/08/2023",
+      "home_team": "Arouca",
+      "away_team": "Estoril",
+      "home_goals": 4,
+      "away_goals": 3,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "14/08/2023",
+      "home_team": "Moreirense",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "14/08/2023",
+      "home_team": "Boavista",
+      "away_team": "Benfica",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/08/2023",
+      "home_team": "Casa Pia",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "19/08/2023",
+      "home_team": "Guimaraes",
+      "away_team": "Gil Vicente",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "19/08/2023",
+      "home_team": "Chaves",
+      "away_team": "Sp Braga",
+      "home_goals": 2,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "19/08/2023",
+      "home_team": "Benfica",
+      "away_team": "Estrela",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "19/08/2023",
+      "home_team": "Portimonense",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/08/2023",
+      "home_team": "Estoril",
+      "away_team": "Rio Ave",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "20/08/2023",
+      "home_team": "Porto",
+      "away_team": "Farense",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "20/08/2023",
+      "home_team": "Vizela",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "21/08/2023",
+      "home_team": "Famalicao",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "25/08/2023",
+      "home_team": "Estrela",
+      "away_team": "Estoril",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "26/08/2023",
+      "home_team": "Arouca",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "26/08/2023",
+      "home_team": "Farense",
+      "away_team": "Chaves",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "26/08/2023",
+      "home_team": "Gil Vicente",
+      "away_team": "Benfica",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "27/08/2023",
+      "home_team": "Boavista",
+      "away_team": "Casa Pia",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/08/2023",
+      "home_team": "Guimaraes",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "27/08/2023",
+      "home_team": "Sp Lisbon",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/08/2023",
+      "home_team": "Rio Ave",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "01/09/2023",
+      "home_team": "Vizela",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/09/2023",
+      "home_team": "Casa Pia",
+      "away_team": "Rio Ave",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "02/09/2023",
+      "home_team": "Famalicao",
+      "away_team": "Farense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/09/2023",
+      "home_team": "Portimonense",
+      "away_team": "Estrela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "02/09/2023",
+      "home_team": "Benfica",
+      "away_team": "Guimaraes",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "03/09/2023",
+      "home_team": "Chaves",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/09/2023",
+      "home_team": "Estoril",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/09/2023",
+      "home_team": "Porto",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "03/09/2023",
+      "home_team": "Sp Braga",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "09/09/2023",
+      "home_team": "Moreirense",
+      "away_team": "Sp Braga",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "15/09/2023",
+      "home_team": "Estrela",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "16/09/2023",
+      "home_team": "Rio Ave",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "16/09/2023",
+      "home_team": "Farense",
+      "away_team": "Sp Braga",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/09/2023",
+      "home_team": "Vizela",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/09/2023",
+      "home_team": "Arouca",
+      "away_team": "Casa Pia",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/09/2023",
+      "home_team": "Gil Vicente",
+      "away_team": "Estoril",
+      "home_goals": 5,
+      "away_goals": 3,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/09/2023",
+      "home_team": "Guimaraes",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/09/2023",
+      "home_team": "Sp Lisbon",
+      "away_team": "Moreirense",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/09/2023",
+      "home_team": "Boavista",
+      "away_team": "Chaves",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "22/09/2023",
+      "home_team": "Famalicao",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/09/2023",
+      "home_team": "Estoril",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "23/09/2023",
+      "home_team": "Moreirense",
+      "away_team": "Farense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/09/2023",
+      "home_team": "Casa Pia",
+      "away_team": "Guimaraes",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "23/09/2023",
+      "home_team": "Porto",
+      "away_team": "Gil Vicente",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "24/09/2023",
+      "home_team": "Chaves",
+      "away_team": "Estrela",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "24/09/2023",
+      "home_team": "Portimonense",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "24/09/2023",
+      "home_team": "Sp Braga",
+      "away_team": "Boavista",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "25/09/2023",
+      "home_team": "Sp Lisbon",
+      "away_team": "Rio Ave",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/09/2023",
+      "home_team": "Estrela",
+      "away_team": "Sp Braga",
+      "home_goals": 2,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "29/09/2023",
+      "home_team": "Benfica",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/09/2023",
+      "home_team": "Vizela",
+      "away_team": "Portimonense",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "30/09/2023",
+      "home_team": "Boavista",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "30/09/2023",
+      "home_team": "Farense",
+      "away_team": "Sp Lisbon",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "01/10/2023",
+      "home_team": "Arouca",
+      "away_team": "Chaves",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "01/10/2023",
+      "home_team": "Guimaraes",
+      "away_team": "Estoril",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "01/10/2023",
+      "home_team": "Rio Ave",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "02/10/2023",
+      "home_team": "Gil Vicente",
+      "away_team": "Casa Pia",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/10/2023",
+      "home_team": "Moreirense",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "07/10/2023",
+      "home_team": "Chaves",
+      "away_team": "Gil Vicente",
+      "home_goals": 4,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/10/2023",
+      "home_team": "Farense",
+      "away_team": "Vizela",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "07/10/2023",
+      "home_team": "Sp Braga",
+      "away_team": "Rio Ave",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/10/2023",
+      "home_team": "Estoril",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/10/2023",
+      "home_team": "Casa Pia",
+      "away_team": "Estrela",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/10/2023",
+      "home_team": "Famalicao",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/10/2023",
+      "home_team": "Porto",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "08/10/2023",
+      "home_team": "Sp Lisbon",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "27/10/2023",
+      "home_team": "Arouca",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "28/10/2023",
+      "home_team": "Portimonense",
+      "away_team": "Estoril",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/10/2023",
+      "home_team": "Benfica",
+      "away_team": "Casa Pia",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "28/10/2023",
+      "home_team": "Guimaraes",
+      "away_team": "Chaves",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/10/2023",
+      "home_team": "Gil Vicente",
+      "away_team": "Sp Braga",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "29/10/2023",
+      "home_team": "Rio Ave",
+      "away_team": "Farense",
+      "home_goals": 3,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "29/10/2023",
+      "home_team": "Estrela",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "29/10/2023",
+      "home_team": "Vizela",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "30/10/2023",
+      "home_team": "Boavista",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/11/2023",
+      "home_team": "Porto",
+      "away_team": "Estoril",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "04/11/2023",
+      "home_team": "Chaves",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "04/11/2023",
+      "home_team": "Famalicao",
+      "away_team": "Gil Vicente",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "04/11/2023",
+      "home_team": "Sp Braga",
+      "away_team": "Portimonense",
+      "home_goals": 6,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/11/2023",
+      "home_team": "Casa Pia",
+      "away_team": "Vizela",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "05/11/2023",
+      "home_team": "Moreirense",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/11/2023",
+      "home_team": "Rio Ave",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/11/2023",
+      "home_team": "Sp Lisbon",
+      "away_team": "Estrela",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/11/2023",
+      "home_team": "Farense",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/11/2023",
+      "home_team": "Estoril",
+      "away_team": "Casa Pia",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/11/2023",
+      "home_team": "Portimonense",
+      "away_team": "Chaves",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/11/2023",
+      "home_team": "Estrela",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "11/11/2023",
+      "home_team": "Vizela",
+      "away_team": "Famalicao",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "11/11/2023",
+      "home_team": "Guimaraes",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/11/2023",
+      "home_team": "Boavista",
+      "away_team": "Farense",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/11/2023",
+      "home_team": "Gil Vicente",
+      "away_team": "Rio Ave",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/11/2023",
+      "home_team": "Arouca",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/11/2023",
+      "home_team": "Benfica",
+      "away_team": "Sp Lisbon",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "01/12/2023",
+      "home_team": "Chaves",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "02/12/2023",
+      "home_team": "Farense",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "02/12/2023",
+      "home_team": "Rio Ave",
+      "away_team": "Estrela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "02/12/2023",
+      "home_team": "Famalicao",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "02/12/2023",
+      "home_team": "Casa Pia",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "03/12/2023",
+      "home_team": "Sp Braga",
+      "away_team": "Estoril",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "03/12/2023",
+      "home_team": "Moreirense",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "03/12/2023",
+      "home_team": "Boavista",
+      "away_team": "Arouca",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "04/12/2023",
+      "home_team": "Sp Lisbon",
+      "away_team": "Gil Vicente",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "08/12/2023",
+      "home_team": "Vizela",
+      "away_team": "Sp Braga",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/12/2023",
+      "home_team": "Benfica",
+      "away_team": "Farense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "09/12/2023",
+      "home_team": "Portimonense",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "09/12/2023",
+      "home_team": "Guimaraes",
+      "away_team": "Sp Lisbon",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/12/2023",
+      "home_team": "Porto",
+      "away_team": "Casa Pia",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/12/2023",
+      "home_team": "Estrela",
+      "away_team": "Boavista",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/12/2023",
+      "home_team": "Arouca",
+      "away_team": "Rio Ave",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "10/12/2023",
+      "home_team": "Estoril",
+      "away_team": "Chaves",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/12/2023",
+      "home_team": "Gil Vicente",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "15/12/2023",
+      "home_team": "Farense",
+      "away_team": "Estrela",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "16/12/2023",
+      "home_team": "Rio Ave",
+      "away_team": "Vizela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "16/12/2023",
+      "home_team": "Arouca",
+      "away_team": "Gil Vicente",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/12/2023",
+      "home_team": "Boavista",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "17/12/2023",
+      "home_team": "Chaves",
+      "away_team": "Casa Pia",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/12/2023",
+      "home_team": "Moreirense",
+      "away_team": "Portimonense",
+      "home_goals": 5,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/12/2023",
+      "home_team": "Famalicao",
+      "away_team": "Estoril",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "17/12/2023",
+      "home_team": "Sp Braga",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/12/2023",
+      "home_team": "Sp Lisbon",
+      "away_team": "Porto",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/12/2023",
+      "home_team": "Guimaraes",
+      "away_team": "Rio Ave",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "23/12/2023",
+      "home_team": "Vizela",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "28/12/2023",
+      "home_team": "Estrela",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "29/12/2023",
+      "home_team": "Benfica",
+      "away_team": "Famalicao",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "29/12/2023",
+      "home_team": "Porto",
+      "away_team": "Chaves",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/12/2023",
+      "home_team": "Estoril",
+      "away_team": "Farense",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/12/2023",
+      "home_team": "Gil Vicente",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/12/2023",
+      "home_team": "Casa Pia",
+      "away_team": "Sp Braga",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "30/12/2023",
+      "home_team": "Portimonense",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "05/01/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Estoril",
+      "home_goals": 5,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/01/2024",
+      "home_team": "Boavista",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "06/01/2024",
+      "home_team": "Estrela",
+      "away_team": "Vizela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "06/01/2024",
+      "home_team": "Farense",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/01/2024",
+      "home_team": "Arouca",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "06/01/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "07/01/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Portimonense",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/01/2024",
+      "home_team": "Famalicao",
+      "away_team": "Chaves",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "08/01/2024",
+      "home_team": "Moreirense",
+      "away_team": "Casa Pia",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/01/2024",
+      "home_team": "Portimonense",
+      "away_team": "Farense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/01/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Famalicao",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "13/01/2024",
+      "home_team": "Chaves",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "13/01/2024",
+      "home_team": "Estoril",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "14/01/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Estrela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "14/01/2024",
+      "home_team": "Benfica",
+      "away_team": "Rio Ave",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "14/01/2024",
+      "home_team": "Vizela",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "14/01/2024",
+      "home_team": "Porto",
+      "away_team": "Sp Braga",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "15/01/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/01/2024",
+      "home_team": "Famalicao",
+      "away_team": "Sp Braga",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/01/2024",
+      "home_team": "Vizela",
+      "away_team": "Sp Lisbon",
+      "home_goals": 2,
+      "away_goals": 5,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "19/01/2024",
+      "home_team": "Benfica",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "20/01/2024",
+      "home_team": "Estoril",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/01/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Farense",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/01/2024",
+      "home_team": "Porto",
+      "away_team": "Moreirense",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "21/01/2024",
+      "home_team": "Portimonense",
+      "away_team": "Gil Vicente",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "21/01/2024",
+      "home_team": "Chaves",
+      "away_team": "Rio Ave",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "21/01/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Estrela",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "Boavista",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "Moreirense",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "Farense",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "Arouca",
+      "away_team": "Vizela",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/01/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "29/01/2024",
+      "home_team": "Estrela",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "29/01/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Casa Pia",
+      "home_goals": 8,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "31/01/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Estoril",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "31/01/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Chaves",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "03/02/2024",
+      "home_team": "Portimonense",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/02/2024",
+      "home_team": "Porto",
+      "away_team": "Rio Ave",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Chaves",
+      "away_team": "Farense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Vizela",
+      "away_team": "Guimaraes",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Benfica",
+      "away_team": "Gil Vicente",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Estoril",
+      "away_team": "Estrela",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "04/02/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/02/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Boavista",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "09/02/2024",
+      "home_team": "Estrela",
+      "away_team": "Portimonense",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/02/2024",
+      "home_team": "Farense",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "10/02/2024",
+      "home_team": "Moreirense",
+      "away_team": "Chaves",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/02/2024",
+      "home_team": "Boavista",
+      "away_team": "Estoril",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/02/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Casa Pia",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/02/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Sp Braga",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/02/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Benfica",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/02/2024",
+      "home_team": "Arouca",
+      "away_team": "Porto",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "13/02/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Vizela",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "16/02/2024",
+      "home_team": "Famalicao",
+      "away_team": "Rio Ave",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/02/2024",
+      "home_team": "Chaves",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/02/2024",
+      "home_team": "Portimonense",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "17/02/2024",
+      "home_team": "Porto",
+      "away_team": "Estrela",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/02/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/02/2024",
+      "home_team": "Benfica",
+      "away_team": "Vizela",
+      "home_goals": 6,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/02/2024",
+      "home_team": "Estoril",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/02/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Farense",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "19/02/2024",
+      "home_team": "Moreirense",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "23/02/2024",
+      "home_team": "Arouca",
+      "away_team": "Famalicao",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "24/02/2024",
+      "home_team": "Farense",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "24/02/2024",
+      "home_team": "Estrela",
+      "away_team": "Chaves",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "24/02/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Casa Pia",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "25/02/2024",
+      "home_team": "Vizela",
+      "away_team": "Estoril",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "25/02/2024",
+      "home_team": "Benfica",
+      "away_team": "Portimonense",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "25/02/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "25/02/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Sp Lisbon",
+      "home_goals": 3,
+      "away_goals": 3,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "26/02/2024",
+      "home_team": "Boavista",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "01/03/2024",
+      "home_team": "Chaves",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 5,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "02/03/2024",
+      "home_team": "Moreirense",
+      "away_team": "Rio Ave",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "02/03/2024",
+      "home_team": "Estoril",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "02/03/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Estrela",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "03/03/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Gil Vicente",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "03/03/2024",
+      "home_team": "Portimonense",
+      "away_team": "Vizela",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "03/03/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Farense",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "03/03/2024",
+      "home_team": "Porto",
+      "away_team": "Benfica",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "04/03/2024",
+      "home_team": "Famalicao",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "08/03/2024",
+      "home_team": "Portimonense",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/03/2024",
+      "home_team": "Estrela",
+      "away_team": "Casa Pia",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/03/2024",
+      "home_team": "Vizela",
+      "away_team": "Farense",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/03/2024",
+      "home_team": "Boavista",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "09/03/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "09/03/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/03/2024",
+      "home_team": "Arouca",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "10/03/2024",
+      "home_team": "Benfica",
+      "away_team": "Estoril",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/03/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Chaves",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "15/03/2024",
+      "home_team": "Estoril",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/03/2024",
+      "home_team": "Famalicao",
+      "away_team": "Estrela",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "16/03/2024",
+      "home_team": "Farense",
+      "away_team": "Rio Ave",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "16/03/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Gil Vicente",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "16/03/2024",
+      "home_team": "Porto",
+      "away_team": "Vizela",
+      "home_goals": 4,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Chaves",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Moreirense",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Benfica",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/03/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Boavista",
+      "home_goals": 6,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "29/03/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "29/03/2024",
+      "home_team": "Benfica",
+      "away_team": "Chaves",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "29/03/2024",
+      "home_team": "Estrela",
+      "away_team": "Sp Lisbon",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "30/03/2024",
+      "home_team": "Arouca",
+      "away_team": "Farense",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/03/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Moreirense",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "30/03/2024",
+      "home_team": "Boavista",
+      "away_team": "Rio Ave",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "30/03/2024",
+      "home_team": "Estoril",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "31/03/2024",
+      "home_team": "Vizela",
+      "away_team": "Casa Pia",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "01/04/2024",
+      "home_team": "Portimonense",
+      "away_team": "Sp Braga",
+      "home_goals": 3,
+      "away_goals": 5,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "05/04/2024",
+      "home_team": "Farense",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/04/2024",
+      "home_team": "Famalicao",
+      "away_team": "Vizela",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/04/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Gil Vicente",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "06/04/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Arouca",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "06/04/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Benfica",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "07/04/2024",
+      "home_team": "Chaves",
+      "away_team": "Portimonense",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "07/04/2024",
+      "home_team": "Moreirense",
+      "away_team": "Estrela",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "07/04/2024",
+      "home_team": "Porto",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "08/04/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Estoril",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "12/04/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 4,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "13/04/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Farense",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "13/04/2024",
+      "home_team": "Porto",
+      "away_team": "Famalicao",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "13/04/2024",
+      "home_team": "Estoril",
+      "away_team": "Sp Braga",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "14/04/2024",
+      "home_team": "Estrela",
+      "away_team": "Rio Ave",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "14/04/2024",
+      "home_team": "Arouca",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "14/04/2024",
+      "home_team": "Portimonense",
+      "away_team": "Casa Pia",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "14/04/2024",
+      "home_team": "Benfica",
+      "away_team": "Moreirense",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "15/04/2024",
+      "home_team": "Vizela",
+      "away_team": "Chaves",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "16/04/2024",
+      "home_team": "Famalicao",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "19/04/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Arouca",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "20/04/2024",
+      "home_team": "Moreirense",
+      "away_team": "Gil Vicente",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "20/04/2024",
+      "home_team": "Boavista",
+      "away_team": "Estrela",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "20/04/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "21/04/2024",
+      "home_team": "Chaves",
+      "away_team": "Estoril",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "21/04/2024",
+      "home_team": "Famalicao",
+      "away_team": "Portimonense",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "21/04/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Porto",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "21/04/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Guimaraes",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "22/04/2024",
+      "home_team": "Farense",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "26/04/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Arouca",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/04/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Chaves",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "27/04/2024",
+      "home_team": "Vizela",
+      "away_team": "Rio Ave",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "27/04/2024",
+      "home_team": "Benfica",
+      "away_team": "Sp Braga",
+      "home_goals": 3,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "27/04/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Boavista",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/04/2024",
+      "home_team": "Portimonense",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "28/04/2024",
+      "home_team": "Estoril",
+      "away_team": "Famalicao",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "28/04/2024",
+      "home_team": "Porto",
+      "away_team": "Sp Lisbon",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "29/04/2024",
+      "home_team": "Estrela",
+      "away_team": "Farense",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "03/05/2024",
+      "home_team": "Moreirense",
+      "away_team": "Vizela",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "04/05/2024",
+      "home_team": "Boavista",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "04/05/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Guimaraes",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "04/05/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Portimonense",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "04/05/2024",
+      "home_team": "Chaves",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "05/05/2024",
+      "home_team": "Farense",
+      "away_team": "Estoril",
+      "home_goals": 3,
+      "away_goals": 2,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/05/2024",
+      "home_team": "Arouca",
+      "away_team": "Estrela",
+      "home_goals": 0,
+      "away_goals": 0,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "05/05/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Casa Pia",
+      "home_goals": 4,
+      "away_goals": 3,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "05/05/2024",
+      "home_team": "Famalicao",
+      "away_team": "Benfica",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "10/05/2024",
+      "home_team": "Chaves",
+      "away_team": "Famalicao",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "11/05/2024",
+      "home_team": "Portimonense",
+      "away_team": "Rio Ave",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "11/05/2024",
+      "home_team": "Vizela",
+      "away_team": "Estrela",
+      "home_goals": 4,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "11/05/2024",
+      "home_team": "Estoril",
+      "away_team": "Sp Lisbon",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "11/05/2024",
+      "home_team": "Guimaraes",
+      "away_team": "Sp Braga",
+      "home_goals": 2,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/05/2024",
+      "home_team": "Gil Vicente",
+      "away_team": "Farense",
+      "home_goals": 2,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "12/05/2024",
+      "home_team": "Benfica",
+      "away_team": "Arouca",
+      "home_goals": 5,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "12/05/2024",
+      "home_team": "Casa Pia",
+      "away_team": "Moreirense",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "12/05/2024",
+      "home_team": "Porto",
+      "away_team": "Boavista",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "17/05/2024",
+      "home_team": "Famalicao",
+      "away_team": "Casa Pia",
+      "home_goals": 1,
+      "away_goals": 2,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "17/05/2024",
+      "home_team": "Rio Ave",
+      "away_team": "Benfica",
+      "home_goals": 1,
+      "away_goals": 1,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Arouca",
+      "away_team": "Guimaraes",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Boavista",
+      "away_team": "Vizela",
+      "home_goals": 2,
+      "away_goals": 2,
+      "result": "D",
+      "competition": "PL"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Estrela",
+      "away_team": "Gil Vicente",
+      "home_goals": 1,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Farense",
+      "away_team": "Portimonense",
+      "home_goals": 1,
+      "away_goals": 3,
+      "result": "A",
+      "competition": "PL"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Moreirense",
+      "away_team": "Estoril",
+      "home_goals": 2,
+      "away_goals": 1,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Sp Lisbon",
+      "away_team": "Chaves",
+      "home_goals": 3,
+      "away_goals": 0,
+      "result": "H",
+      "competition": "PL"
+    },
+    {
+      "date": "18/05/2024",
+      "home_team": "Sp Braga",
+      "away_team": "Porto",
+      "home_goals": 0,
+      "away_goals": 1,
+      "result": "A",
+      "competition": "PL"
+    }
+  ],
+  "source": "football-data.co.uk CSV",
+  "competition": "PL"
+}
