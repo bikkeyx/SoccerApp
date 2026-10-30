@@ -85,7 +85,7 @@ for _, row in fixtures_data.iterrows():
 status_bar(last_update=datetime.now().strftime("%Y-%m-%d %H:%M"))
 
 
-if __name__ == "pages.1_Today_Matches":
+if __name__ == "pages.Today_Matches":
     pass
 else:
     status_bar(datetime.now().strftime("%Y-%m-%d %H:%M"))

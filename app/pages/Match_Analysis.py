@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide",
 )
 
-# Custom CSS (same theme as 1_Today_Matches)
+# Custom CSS (same theme as Today_Matches)
 <style>
 /* Import theme from style.css -- do not redefine variables here */
 </style>

@@ -35,19 +35,19 @@ def main():
     st.sidebar.markdown("---")
     st.sidebar.caption(f"Model: 1.0.0 | Data: {__import__('datetime').datetime.now().strftime('%Y-%m-%d')}")
     if page == "Today's Matches":
-        from pages.1_Today_Matches import main as today_matches
+        from pages.Today_Matches import main as today_matches
         today_matches()
     elif page == "Match Analysis":
-        from pages.2_Match_Analysis import main as match_analysis
+        from pages.Match_Analysis import main as match_analysis
         match_analysis()
     elif page == "Team Profiles":
-        from pages.3_Team_Profiles import main as team_profiles
+        from pages.Team_Profiles import main as team_profiles
         team_profiles()
     elif page == "Predictions":
-        from pages.4_Predictions import main as predictions
+        from pages.Predictions import main as predictions
         predictions()
     elif page == "Suggestions":
-        from pages.5_Suggestions import main as suggestions
+        from pages.Suggestions import main as suggestions
         suggestions()
 
 
