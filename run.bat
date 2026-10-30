@@ -10,8 +10,6 @@ echo ==========================================
 
 echo Current directory: %cd%
 
-echo .
-
 :: Step 1: Create virtual environment if it doesn't exist
 if not exist .venv (
     echo Creating virtual environment...
@@ -36,10 +34,15 @@ if errorlevel 1 (
 echo.
 echo Dependencies installed successfully!
 
-:: Step 3: Launch the app
+:: Step 3: Clear Python and Streamlit cache
 echo.
-echo launching soccer prediction app...
+echo Clearing Python and Streamlit cache...
+del /f /q .\__pycache__ 2>/dev/null
+del /f /q %APPDATA%\Streamlit\cache\* 2>/dev/null
+
+:: Step 4: Launch the app
 echo.
+echo Launching soccer prediction app...
 streamlit run app.py
 
 :: Keep terminal open after app closes
