@@ -16,14 +16,16 @@ st.set_page_config(
     layout="wide",
 )
 
-# Custom CSS theme
-<style>
-/* Import theme from style.css -- do not redefine variables here */
-</style>
-
+# Import theme variables
+from app.theme import (
+    BACKGROUND_COLOR, PANEL_BACKGROUND, PRIMARY_TEXT, MUTED_TEXT,
+    ACCENT_GREEN, SECONDARY_ACCENT, WARNING_AMBER, RISK_RED,
+    BORDER_DIVIDER, FONT_FAMILY
+)
 
 
 def main():
+    """Main function for predictions page."""
     st.title("🎯 Predictions")
     st.markdown("### Match Predictions & Probability Panels")
 
@@ -45,6 +47,7 @@ def main():
     # Generate prediction
     engine = st.session_state.get('engine')
     if engine is None:
+        from src.prediction.engine import PredictionEngine
         engine = PredictionEngine()
         st.session_state['engine'] = engine
 
@@ -56,22 +59,19 @@ def main():
 
     col1, col2, col3 = st.columns(3)
     with col1:
-        figure = st.progress(float(pred['prediction']['home_win_probability']) / 100)
         st.metric("Home Win", f"{pred['prediction']['home_win_probability']:.1f}%")
     with col2:
-        figure = st.progress(float(pred['prediction']['draw_probability']) / 100)
         st.metric("Draw", f"{pred['prediction']['draw_probability']:.1f}%")
     with col3:
-        figure = st.progress(float(pred['prediction']['away_win_probability']) / 100)
         st.metric("Away Win", f"{pred['prediction']['away_win_probability']:.1f}%")
 
     # Expected goals comparison
     st.markdown("#### Expected Goals Comparison")
     col1, col2 = st.columns(2)
     with col1:
-        st.info(f"**{home_team}**: {pred['expected_goals']['home']:.2f} xG")
+        st.info(f"**{home_team}**: {pred['expected_goals']['home_xg']:.2f} xG")
     with col2:
-        st.info(f**{away_team}**: {pred['expected_goals']['away']:.2f} xG)
+        st.info(f"**{away_team}**: {pred['expected_goals']['away_xg']:.2f} xG")
 
     # Most likely scoreline
     st.markdown(f"**Most Likely Scoreline:** {pred['most_likely_scoreline']}")
@@ -90,7 +90,7 @@ def main():
 
     # Value suggestions
     st.markdown("#### Value Betting Opportunities")
-    from src.suggestions import detect_value_suggestions, format_suggestion
+    from src.suggestions import detect_value_suggestions
 
     suggestions = st.session_state.get('suggestions')
     if suggestions is None:
@@ -107,7 +107,7 @@ def main():
     if suggestions:
         st.markdown(f"**Found {len(suggestions)} value opportunities:**")
         for s in suggestions:
-            st.markdown(format_suggestion(s), unsafe_allow_html=True)
+            st.markdown(f"- **{s.selection}**: Edge {s.edge:.3f}, Probability {s.model_probability:.1%}")
     else:
         st.info("No value opportunities at current thresholds (edge > 5%, probability > 20%).")
 
@@ -123,7 +123,8 @@ def main():
         """)
 
     # Status bar
-    status_bar(
+    from app.components.header import header_status_bar
+    header_status_bar(
         last_update=datetime.now().strftime("%Y-%m-%d %H:%M"),
         model_version="1.0.0",
         data_freshness="Live predictions"

@@ -16,13 +16,6 @@ st.set_page_config(
     layout="wide",
 )
 
-# Custom CSS theme
-<style>
-/* Import theme from style.css -- do not redefine variables here */
-</style>
-
-
-
 def main():
     st.title("👥 Team Profiles")
     st.markdown("### Team Statistics & Form Guide")
@@ -39,7 +32,6 @@ def main():
 
     # Get historical data (simulated)
     with st.spinner("Loading team data..."):
-        # Would load from historical match database
         pass
 
     # Team statistics columns
@@ -90,20 +82,22 @@ def main():
     with st.expander("Model Explanation"):
         st.markdown("""
         **How ratings are calculated:**
-        - Elo-based rating system (K-factor: 32)
-        - Home advantage: +1.12 multiplier
-        - Attack/defense strength: Ratio-based
-        - Recent form: Last 5 matches weighted more heavily
+        - Poisson-based attack/defense strength (goals per game vs league average)
+        - Dixon-Coles low-score correction applied
+        - Home advantage: +0.25 xG for home side
         - Context adjustments: Rest days, motivation, venue effects
         """)
 
     # Status bar
-    status_bar(
-        last_update=datetime.now().strftime("%Y-%m-%d %H:%M"),
-        model_version="1.0.0",
-        data_freshness="Updated after each match"
+    from app.components.header import header_status_bar
+    header_status_bar(
+        data_freshness="Updated after each match",
+        model_version="2.0.0",
+        last_update=datetime.now().strftime("%Y-%m-%d %H:%M")
     )
 
 
 if __name__ == "__main__":
+    main()
+else:
     main()

@@ -16,21 +16,29 @@ st.set_page_config(
     layout="wide",
 )
 
-# Custom CSS (same theme as Today_Matches)
-<style>
-/* Import theme from style.css -- do not redefine variables here */
-</style>
-
+# Import theme variables
+from app.theme import (
+    BACKGROUND_COLOR, PANEL_BACKGROUND, PRIMARY_TEXT, MUTED_TEXT,
+    ACCENT_GREEN, SECONDARY_ACCENT, WARNING_AMBER, RISK_RED,
+    BORDER_DIVIDER, FONT_FAMILY
+)
 
 
 def main():
+    """Main function for match analysis page."""
     st.title("📊 Match Analysis")
     st.markdown("### Detailed Match Analysis & Prediction")
 
     # Sidebar - Select match
     st.sidebar.header("Match Selector")
-    home_team = st.sidebar.selectbox("Home Team", ["Arsenal", "Manchester United", "Liverpool", "Manchester City", "Chelsea", "Tottenham", "Newcastle", "Brighton", "West Ham", "Everton"])
-    away_team = st.sidebar.selectbox("Away Team", ["Tottenham", "Chelsea", "Brighton", "West Ham", "Everton", "Arsenal", "Manchester United", "Liverpool", "Manchester City"])
+    home_team = st.sidebar.selectbox("Home Team", [
+        "Arsenal", "Manchester United", "Liverpool", "Manchester City",
+        "Chelsea", "Tottenham", "Newcastle", "Brighton"
+    ], key="home_team_selector")
+    away_team = st.sidebar.selectbox("Away Team", [
+        "Tottenham", "Chelsea", "Brighton", "West Ham", "Everton",
+        "Arsenal", "Manchester United", "Liverpool", "Manchester City"
+    ], key="away_team_selector")
 
     if home_team == away_team:
         st.error("Please select different teams for home and away.")
@@ -39,39 +47,35 @@ def main():
     # Main content
     st.markdown(f"### {home_team} vs {away_team}")
 
-    # prediction engine
+    # Prediction
     engine = st.session_state.get('engine')
     if engine is None:
+        from src.prediction.engine import PredictionEngine
         engine = PredictionEngine()
         st.session_state['engine'] = engine
 
-    # Train on historical data (simulated)
     with st.spinner("Loading model..."):
-        # Would train on real historical data
-        pass
-
-    # Prediction
-    pred = engine.predict_match(home_team, away_team)
+        pred = engine.predict_match(home_team, away_team)
 
     # Prediction probabilities
     col1, col2, col3 = st.columns(3)
     with col1:
         st.metric("Home Win", f"{pred['prediction']['home_win_probability']:.1f}%",
-                  help=f"Model predicted probability")
+                  help="Model predicted probability")
     with col2:
-        st.metric("Draw", f"{pred['prediction"]["draw_probability']:.1f}%",
-                 help=f"Model predicted probability")
+        st.metric("Draw", f"{pred['prediction']['draw_probability']:.1f}%",
+                  help="Model predicted probability")
     with col3:
         st.metric("Away Win", f"{pred['prediction']['away_win_probability']:.1f}%",
-                 help=f"Model predicted probability")
+                  help="Model predicted probability")
 
     # Expected goals
     st.markdown("#### Expected Goals")
     col1, col2 = st.columns(2)
     with col1:
-        st.metric(f"{home_team} xG", f"{pred['expected_goals']['home']:.2f}")
+        st.metric(f"{home_team} xG", f"{pred['expected_goals']['home_xg']:.2f}")
     with col2:
-        st.metric(f"{away_team} xG", f"{pred['expected_goals']['away']:.2f}")
+        st.metric(f"{away_team} xG", f"{pred['expected_goals']['away_xg']:.2f}")
 
     # Most likely scoreline
     st.markdown(f"**Most Likely Scoreline:** {pred['most_likely_scoreline']}")
@@ -83,7 +87,7 @@ def main():
         from src.suggestions import detect_value_suggestions
         suggestions = detect_value_suggestions(
             pred,
-            home_odds=2.10,  # Would come from real odds data
+            home_odds=2.10,
             draw_odds=3.40,
             away_odds=3.20,
             min_edge=0.05,
@@ -94,11 +98,19 @@ def main():
     if suggestions:
         for s in suggestions[:3]:
             st.markdown(
-                f'<div class="warning-box"><strong>{s.selection}</strong> | Edge: {s.edge:.2f} | Confidence: {s.confidence}</div>',
+                f"<div class='warning-box'><strong>{s.selection}</strong> | Edge: {s.edge:.2f} | Confidence: {s.confidence}</div>",
                 unsafe_allow_html=True,
             )
     else:
         st.info("No value opportunities detected at current thresholds.")
+
+    # Status bar
+    from app.components.header import header_status_bar
+    header_status_bar(
+        data_freshness="Updated after each match",
+        model_version="1.0.0",
+        last_update=datetime.now().strftime("%Y-%m-%d %H:%M")
+    )
 
 
 if __name__ == "__main__":

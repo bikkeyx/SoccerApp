@@ -16,12 +16,6 @@ st.set_page_config(
     layout="wide",
 )
 
-# Custom CSS theme
-<style>
-/* Import theme from style.css -- do not redefine variables here */
-</style>
-
-
 
 def main():
     st.title("💡 Suggestions")
@@ -95,42 +89,49 @@ def main():
                     st.caption(f"Supporting factors: {', '.join(s.supporting_factors) if s.supporting_factors else 'N/A'}")
 
         # Performance tracking note
-        st.markdown("---")
-        st.markdown("""
-        <div class="warning-box">
+        st.markdown("---\n")
+        st.markdown(
+            """<div class="warning-box">
             <strong>Performance Tracking:</strong> 
             Suggestions are evaluated after matches are played. 
             Hit rate and ROI are tracked over time.
         </div>""",
-                    unsafe_allow_html=True)
+            unsafe_allow_html=True,
+        )
     else:
         st.info(f"No suggestions found with edge > {min_edge:.1%} and probability > {min_probability:.1%}.")
-        st.markdown("""
-        <div class="info-box">
+        st.markdown(
+            """<div class="info-box">
             Adjust the sliders above to lower the thresholds and 
             find more value opportunities.
-        </div>""", unsafe_allow_html=True)
+        </div>""",
+            unsafe_allow_html=True,
+        )
 
     # Model information
     with st.expander("Model Information"):
-        st.markdown("""
-        **Suggestion Logic:**
+        st.markdown(
+            """**Suggestion Logic:**
         - Edge = (Model Probability × Decimal Odds) - 1
         - Positive edge > 0 means positive expected value
         - Minimum edge filter: 5% (0.05)
         - Minimum probability filter: 20% (0.20)
         - Confidence: HIGH (>10% edge), MEDIUM (5-10% edge), LOW (<5% edge)
-        
+
         **Model:** Poisson/Dixon-Coles ensemble with Elo ratings
         **Data:** Historical match results, team form, context variables
         **Evaluation:** Backtested on unseen chronological data
-        """)
+        """
+        )
 
     # Status bar
-    status_bar(
-        last_update=datetime.now().strftime("%Y-%m-%d %H:%M"),
-        model_version="1.0.0",
-        data_freshness="Live suggestions"
+    st.markdown(
+        f"""<div style="background: #151B22; border-bottom: 1px solid #22303B; padding: 0.5rem 1; margin-top: 1rem;>
+            <span style="font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 0.75rem; color: #7C8B99;">
+                📅 Last update: {datetime.now().strftime('%Y-%m-%d %H:%M')} | Model: 1.0.0 | Data: Live suggestions
+            </span>
+        </div>""",
+        unsafe_allow_html=True,
     )
 
 

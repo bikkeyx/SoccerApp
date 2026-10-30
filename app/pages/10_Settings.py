@@ -45,8 +45,6 @@ html, body, [class*="st"] {{ font-family: var(--mono-font), monospace; }}
 .stButton > button:hover {{ background-color: var(--accent-cyan); color: var(--bg-primary); }}
 .stSelectbox > div > div {{ background-color: var(--bg-panel); border: 1px solid var(--border); color: var(--text-primary); }}
 .stExpander {{ background-color: var(--bg-panel); border: 1px solid var(--border); border-radius: 8px; }}
-.warning-box {{ background-color: rgba(251, 191, 36, 0.1); border: 1px solid var(--warning-amber); padding: 0.75rem; border-radius: 8px; margin: 0.5rem 0; }}
-.risk-box {{ background-color: rgba(248, 113, 113, 0.1); border: 1px solid var(--risk-red); padding: 0.75rem; border-radius: 8px; margin: 0.5rem 0; }}
 </style>
 """, unsafe_allow_html=True)
 
@@ -71,15 +69,15 @@ def main():
 
     elif category == "Predictions":
         st.markdown("### Prediction Settings")
-        st.slider("Minimum edge %", 0, 20, 5) / 100
-        st.slider("Minimum probability %", 0, 100, 20) / 100
+        st.slider("Minimum edge %", 0, 20, 5)
+        st.slider("Minimum probability %", 0, 100, 20)
         st.checkbox("Include context adjustments", value=True)
-        st.selectbox("Model version", ["1.0.0", "1.1.0", "2.0.0"], index=0)
+        st.selectbox("Model version", ["2.0.0", "1.0.0"], index=0)
 
     elif category == "Suggestions":
         st.markdown("### Suggestion Filters")
-        st.slider("Minimum edge for suggestions %", 0, 20, 5) / 100
-        st.slider("Minimum probability for suggestions %", 0, 100, 20) / 100
+        st.slider("Minimum edge for suggestions %", 0, 20, 5)
+        st.slider("Minimum probability for suggestions %", 0, 100, 20)
         st.selectbox("Confidence display", ["Always", "High only", "Never"], index=0)
         st.checkbox("Track hypothetical outcomes", value=False)
 
@@ -94,7 +92,7 @@ def main():
         st.markdown("### Appearance Settings")
         st.selectbox("Theme", ["Terminal Hacker (default)", "Light", "Dark"], index=0)
         st.color_picker("Accent color", "#4ADE80")
-        st.checkbox "Show borders around panels"
+        st.checkbox("Show borders around panels", value=True)
         st.selectbox("Monospace font", ["JetBrains Mono", "Fira Code", "Consolas"], index=0)
 
     # Save button
@@ -111,10 +109,12 @@ def main():
     from app.components.header import header_status_bar
     header_status_bar(
         data_freshness="Settings stored locally",
-        model_version="1.0.0",
+        model_version="2.0.0",
         last_update=datetime.now().strftime("%Y-%m-%d %H:%M")
     )
 
 
 if __name__ == "__main__":
+    main()
+else:
     main()

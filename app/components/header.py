@@ -9,7 +9,7 @@ def header_status_bar(data_freshness: str, model_version: str = "v1.0", last_upd
         f"""
         <div style="background: {PANEL_BACKGROUND}; border-bottom: 1px solid {BORDER_DIVIDER}; padding: 0.5rem 1rem; margin-bottom: 1rem;>
             <span style="font-family: {FONT_FAMILY}; font-size: {FONT_SIZE_SMALL}; color: {MUTED_TEXT};">
-                🏈 {data_freshness}  |  Model: {model_version}  |  Last update: {last_update}
+                ⚽ {data_freshness}  |  Model: {model_version}  |  Last update: {last_update}
             </span>
         </div>
         """,
