@@ -18,103 +18,10 @@ st.set_page_config(
 )
 
 # Custom CSS for terminal/hacker theme
-st.markdown("""
 <style>
-/* Root theme variables */
-:root {
-    --bg-primary: #0B0F14;
-    --bg-panel: #151B22;
-    --text-primary: #D7E3EE;
-    --text-muted: #7C8B99;
-    --accent-green: #4ADE80;
-    --accent-cyan: #38BDF8;
-    --warning-amber: #FBBF24;
-    --risk-red: #F87171;
-    --border: #22303B;
-    --mono-font: 'JetBrains Mono', 'Fira Code', monospace;
-}
-
-/* Apply monospace font */
-html, body, [class*="st"] {
-    font-family: var(--mono-font), monospace;
-}
-
-/* Main background */
-.main {
-    background-color: var(--bg-primary);
-    color: var(--text-primary);
-}
-
-/* Panels */
-.divider, .block-container {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
-/* Metric cards */
-.stMetric {
-    background-color: var(--bg-panel);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 1rem;
-    margin: 0.5rem 0;
-}
-
-/* Buttons */
-.stButton > button {
-    background-color: var(--accent-green);
-    color: var(--bg-primary);
-    border: none;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    font-weight: 500;
-    transition: all 0.2s;
-}
-.stButton > button:hover {
-    background-color: var(--accent-cyan);
-    color: var(--bg-primary);
-}
-
-/* Selectbox */
-.stSelectbox > div > div {
-    background-color: var(--bg-panel);
-    border: 1px solid var(--border);
-    color: var(--text-primary);
-}
-
-/* Expander */
-.stExpander {
-    background-color: var(--bg-panel);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-}
-
-/* Warning/alert boxes */
-.warning-box {
-    background-color: rgba(251, 191, 36, 0.1);
-    border: 1px solid var(--warning-amber);
-    padding: 0.75rem;
-    border-radius: 8px;
-    margin: 0.5rem 0;
-}
-.risk-box {
-    background-color: rgba(248, 113, 113, 0.1);
-    border: 1px solid var(--risk-red);
-    padding: 0.75rem;
-    border-radius: 8px;
-    margin: 0.5rem 0;
-}
-
-/* Dataframe */
-.dataframe tbody tr {
-    background-color: var(--bg-panel);
-}
-.dataframe th, .dataframe td {
-    color: var(--text-primary);
-    border-bottom: 1px solid var(--border);
-}
+/* Import theme variables from style.css -- do not redefine here */
 </style>
-""", unsafe_allow_html=True)
+
 
 
 def status_bar(last_update, model_version, data_freshness):
