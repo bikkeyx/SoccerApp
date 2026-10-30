@@ -34,21 +34,25 @@ def main():
     )
     st.sidebar.markdown("---")
     st.sidebar.caption(f"Model: 1.0.0 | Data: {__import__('datetime').datetime.now().strftime('%Y-%m-%d')}")
+
+    # Import and run the selected page using app.pages module path
+    import importlib
+
     if page == "Today's Matches":
-        from pages.Today_Matches import main as today_matches
-        today_matches()
+        mod = importlib.import_module("app.pages.Today_Matches")
+        mod.main()
     elif page == "Match Analysis":
-        from pages.Match_Analysis import main as match_analysis
-        match_analysis()
+        mod = importlib.import_module("app.pages.Match_Analysis")
+        mod.main()
     elif page == "Team Profiles":
-        from pages.Team_Profiles import main as team_profiles
-        team_profiles()
+        mod = importlib.import_module("app.pages.Team_Profiles")
+        mod.main()
     elif page == "Predictions":
-        from pages.Predictions import main as predictions
-        predictions()
+        mod = importlib.import_module("app.pages.Predictions")
+        mod.main()
     elif page == "Suggestions":
-        from pages.Suggestions import main as suggestions
-        suggestions()
+        mod = importlib.import_module("app.pages.Suggestions")
+        mod.main()
 
 
 if __name__ == "__main__":
